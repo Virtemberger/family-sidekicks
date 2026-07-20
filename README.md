@@ -2,6 +2,8 @@
 
 > One family memory. A Sidekick for every corner of family life.
 
+**Live demo:** [family-sidekicks.vercel.app](https://family-sidekicks.vercel.app/)
+
 Family Sidekicks is an interactive product POC for OpenAI Build Week 2026, track **Apps for Your Life**. Families configure their context once. A crew of specialized Sidekicks then works in dedicated Corners while sharing the same ages, interests, allergies, location and parent preferences.
 
 Crew Home is a daily family dashboard rather than a product landing page. It combines an attention queue, a family timeline, clearly labeled demo weather and schedule data, meals, nearby ideas, the next seven days and three personal Sidekick shortcuts per parent. Shared task completion and saved results stay consistent when the parent view changes.

@@ -7,13 +7,13 @@
 - [ ] Confirm each Sidekick shows the family facts used in its answer.
 - [ ] Confirm sample mode remains visibly labeled when the key is removed.
 - [ ] Test geolocation accepted and declined.
-- [ ] Run `pnpm verify`.
-- [ ] Run `pnpm test:e2e` in desktop and mobile projects.
+- [x] Run `pnpm verify`.
+- [x] Run `pnpm test:e2e` in desktop and mobile projects.
 
 ## Public artifacts
 
-- [ ] Push this repository to a public GitHub repository.
-- [ ] Deploy the no-login demo to Vercel.
+- [x] Push this repository to a public GitHub repository.
+- [x] Deploy the no-login demo to Vercel.
 - [ ] Test demo and repository in a signed-out browser.
 - [ ] Record a 2:45-2:55 video using `docs/DEMO_SCRIPT.md`.
 - [ ] Upload the video publicly to YouTube.
